@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863303589265",
+    "project_id": "mopidati",
+    "storage_bucket": "mopidati.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863303589265:android:9626f7c6aeb5ffc8afce30",
+        "android_client_info": {
+          "package_name": "com.example.mopidati"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqnt8s6ydg8rqRpMZc5ntd0ruMJc2fOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
